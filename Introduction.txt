@@ -1,0 +1,1 @@
+This repository contains code that is written while trying to learn Django - a web framework written in python. This is added to gitHub to store it for future reference and also to get the hands on Git, having previously used SVN while working for Cisco
