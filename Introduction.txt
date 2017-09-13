@@ -1,1 +1,13 @@
 This repository contains code that is written while trying to learn Django - a web framework written in python. This is added to gitHub to store it for future reference and also to get the hands on Git, having previously used SVN while working for Cisco
+
+Few Git commands to remember :
+git add <filename>
+git mv <filename>
+git cp <filename>
+git rm -rf <filename>
+git status
+git commit -m "Message on commit" .   [commits to the local repository]
+git pull
+git push origin master  [origin - remote server from which you cloned] [master - name of the branch to which it should push]
+git log
+git checkout <version_number>   [rollback to a version]
